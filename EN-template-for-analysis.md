@@ -1,6 +1,6 @@
-**Date**<br>
-**Course Code & Course Name**<br>
-**Student's First Name & Last Name**<br>
+**October 31st 2026**<br>
+**MPAD2003A Introductory Data Storytelling**<br>
+**Makayla McLean**<br>
 **Presented to Jean-Sébastien Marier**<br>
 
 # Deliverable 2: Exploratory Data Analysis (EDA)
@@ -25,6 +25,17 @@ Did you notice how to create a hyperlink? In Markdown, we put the clickable text
 And to create an unordered list, we simply put a star (`*`) before each item.
 
 ## 1. Getting Data
+
+## Why I chose this dataset:
+I have chosen a dataset that includes the Location (address, postal code etc.) of cultural spaces that are considered natural around the city of Ottawa. I chose this dataset because there are many ways to visualize this form of data such as visual maps, a navigable list or interactable map. I also decided to work with a dataset related directly to something I like and that I would personally find useful. It's also extremely important to inform people on the current environmental state and how these parks and green spaces affect our quality of life and overall quality of our city as a whole.
+
+
+## General Observations of the dataset
+There are 1022 rows and 49 columns in total within this dataset. There are quite a few empty cells as there are 3 rows for seasonal notes and general notes for both French and English though the majority are empty.
+
+
+
+
 
 Use two hashtag symbols (`##`) to create a level 2 heading like this one.
 

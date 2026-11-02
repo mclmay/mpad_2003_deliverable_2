@@ -34,6 +34,9 @@ I have chosen a dataset that includes the Location (address, postal code etc.) o
 There are 1022 rows and 49 columns in total within this dataset. There are quite a few empty cells as there are 3 rows for seasonal notes and general notes for both French and English though the majority are empty.
 
 
+![](GoogleSheetsSS.png)<br>
+*figure 1: Imported Google sheets screenshot*
+
 
 
 

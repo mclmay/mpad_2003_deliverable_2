@@ -31,11 +31,15 @@ I have chosen a dataset that includes the Location (address, postal code etc.) o
 
 
 ## General Observations of the dataset
-There are 1022 rows and 49 columns in total within this dataset. There are quite a few empty cells as there are 3 rows for seasonal notes and general notes for both French and English though the majority are empty.
+There are 1022 rows and 49 columns in total within this dataset of which include the coordinates, official names and addresses of all the cultural nature spaces within Ottawa. There are quite a few empty cells as there are 3 rows for seasonal notes and general notes for both French and English though the majority are empty. This dataset includes nominal variables as the names of the different natural spaces. 
+
+## how I imported the dataset
+First I retrieved the dataset from the open ottawa database, then I downloaded the CSV file that was linked to the page. I then created a google sheets document to which I used the import option to open the CSV file within google sheets.
+
 
 
 ![](GoogleSheetsSS.png)<br>
-*figure 1: Imported Google sheets screenshot*
+*figure 1: Imported Google sheets screenshot* https://docs.google.com/spreadsheets/d/1mL5dRG-e_hPMJYjxaj1WzpE-BggnnTr5Zg7sfHNtjDs/edit?usp=sharing
 
 
 
